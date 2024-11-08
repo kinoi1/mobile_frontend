@@ -70,9 +70,9 @@
 
     <section class="pt-8">
         <div class="container mx-4">
-            <div class="w-11/12 flex flex-row gap-36">
-                <p>Pekerjaan aktif</p>
-                <div class="bg-rose-500 text-white rounded-lg px-2">
+            <div class="w-11/12 flex flex-row gap-1">
+                <p class="w-6/12 mr-2">Pekerjaan aktif</p>
+                <div class="bg-rose-500 text-white rounded-lg px-2 ml-8">
                     Segera Kerjakan!
                 </div>
             </div>
